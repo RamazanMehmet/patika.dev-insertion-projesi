@@ -52,10 +52,6 @@ Selection Sort'a göre ilk 4 Adım:
 # Merhaba! Ben Ramazan Mehmet 👋
 
 Yazılım dünyasına sıfırdan adım attım ve Front-end geliştirme yolculuğuma başladım. Bu seriyi "Sıfırdan Zirveye Kodluyorum" olarak adlandırdım çünkü amacım her gün bir adım daha atarak gelişmek ve sonunda bu alanda zirveye ulaşmak! 💻🚀
-
-# 🔧 Yeni Geliştirmeler:
-
-Projem büyüdükçe yeni özellikler ekleyeceğim ve gelişmeleri paylaşacağım. Her adımda daha da büyüyecek! 📈
 	
 
 
